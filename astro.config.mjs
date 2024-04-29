@@ -7,3 +7,4 @@ export default defineConfig({
   site: "https://astro-moon-landing.netlify.app/",
   integrations: [tailwind(), icon()],
 });
+
